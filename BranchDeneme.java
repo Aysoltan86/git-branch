@@ -7,6 +7,10 @@ public class BranchDeneme {
 		System.out.println("Saat 18:28 master commit");
 		
 		
+		
+		System.out.println("Saat 18:36 future branch ten ilk commit");
+		
+		
 	}
 
 }
